@@ -1,6 +1,6 @@
 using System;
 
-public static void Main(args[])
+public static void Main(string[] args)
 {
   Console.WriteLine("Hello World!");
   Console.ReadLine();
